@@ -1,0 +1,66 @@
+body {
+    padding: 1px 3px;
+}
+
+#nome{
+    margin: 10px 0 0 200px
+}
+
+.objetivo{
+    font-style: italic;
+    }
+
+.experiencia{
+    font-style: italic;
+}
+
+.escolaridade{
+    font-style: italic;
+    }
+
+.cursos{
+    font-style: italic;
+    }
+
+
+.contato{
+    font-style: italic;
+    }
+
+#objetivo{
+    text-shadow: 2px 2px 5px black;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+
+#tabela1{
+    background-color:grey;
+    border-radius: 10px;
+    border: 3px solid black;
+    width: 500px;
+    height: 100px;
+}
+
+#tabela2{
+    background-color:blue;
+    border-radius: 10px;
+    border: 3px solid black;
+    width: 500px;
+    height: 100px;
+}
+
+textarea{
+    margin: 1px 0;
+    width: 250px;
+    height: 100px;
+    background-color: darkgray;
+}
+
+#text1{
+    background-color: darkgray;
+}
+
+#text2{
+    background-color: darkgray;
+}
